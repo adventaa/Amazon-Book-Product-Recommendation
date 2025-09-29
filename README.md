@@ -4,7 +4,9 @@ Proyek ini bertujuan untuk membangun sistem rekomendasi buku dengan menggunakan 
 ---
 # 📁 Dataset
 Kaggle: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 Data: Books.csv, Ratings.csv, Users.csv
+
 ---
 # ⚙️ Tools & Library
 - VSCode
